@@ -2,7 +2,7 @@
 
 This project is a full-stack Quality Management System (QMS) module for a Life Sciences company, developed to demonstrate full-stack development capabilities, understanding of QMS principles, and AI integration. The application allows users to create, view, and manage QMS audit events with the help of an intelligent AI assistant powered by Google Gemini.
 
-**Submission Date:** August 2, 2025
+**Submission Date:** August 1, 2025
 
 ---
 
